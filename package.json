@@ -1,0 +1,7 @@
+{
+  "name": "systeminformation-issue",
+  "version": "1.0.0",
+  "dependencies": {
+    "systeminformation": "^5.16.1"
+  }
+}
